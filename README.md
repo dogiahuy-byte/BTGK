@@ -16,6 +16,6 @@
 + HTML5 Ngữ nghĩa
 + CSS
 + JavaScript
--Link Figma: https://www.figma.com/make/fV5z31MOpuStBiZ56P8iNY/Website-prototype-review?code-node-id=0-6&p=f&t=Tqx7mJ4L8chxjBIE-0&fullscreen=1
--Link video: https://www.youtube.com/playlist?list=PLQA73wAzlW3Y
--Link GitHub: https://github.com/dogiahuy-byte/BTGK
+- Link Figma: https://www.figma.com/make/fV5z31MOpuStBiZ56P8iNY/Website-prototype-review?code-node-id=0-6&p=f&t=Tqx7mJ4L8chxjBIE-0&fullscreen=1
+- Link video: https://www.youtube.com/playlist?list=PLQA73wAzlW3Y
+- Link GitHub: https://github.com/dogiahuy-byte/BTGK
